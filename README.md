@@ -14,3 +14,18 @@ Visualize accuracy score of all models.
 Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest 
 Neighbors. All produced similar results with 𝐚𝐜𝐜𝐮𝐫𝐚𝐜𝐲 𝐫𝐚𝐭𝐞 𝐨𝐟 𝐚𝐛𝐨𝐮𝐭 𝟖𝟑.𝟑𝟑%. All 
 models over predicted successful landings. More data is needed for better model determination and accuracy.
+
+# METHODOLOGY
+
+• 𝐃𝐚𝐭𝐚 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐦𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲:
+• Combined data from SpaceX public API and SpaceX 
+Wikipedia page
+
+• 𝐏𝐞𝐫𝐟𝐨𝐫𝐦 𝐝𝐚𝐭𝐚 𝐰𝐫𝐚𝐧𝐠𝐥𝐢𝐧𝐠
+
+• Classifying true 
+landings as successful and unsuccessful otherwise
+• Perform exploratory data analysis(EDA) using visualization and SQL
+• Perform interactive visual analytics using 𝐅𝐨𝐥𝐢𝐮𝐦 and 𝐏𝐥𝐨𝐭𝐥𝐲 𝐃𝐚𝐬𝐡
+• Perform predictive analysis using classificationmodels
+• Tuned models using 𝐆𝐫𝐢𝐝𝐒𝐞𝐚𝐫𝐜𝐡𝐂𝐕
